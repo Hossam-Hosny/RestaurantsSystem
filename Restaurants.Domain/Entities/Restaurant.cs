@@ -12,7 +12,7 @@ public class Restaurant
     public string? ContactEmail { get; set; } = default!;
     public string? ContactNumber { get; set; } = default!;
 
-    public Address? Address { get; set; }
+    public Address ? Address { get; set; }
     public List<Dish> Dishes { get; set; } = new();
 
 
