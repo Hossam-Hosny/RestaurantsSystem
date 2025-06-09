@@ -1,1 +1,44 @@
-﻿
+﻿@Restaurant.API_HostAddress = https://localhost:7163
+@id = 1
+GET {{Restaurant.API_HostAddress}}/api/restaurants
+
+###
+  
+GET {{Restaurant.API_HostAddress}}/api/restaurants/GetRestaurant/{{id}}
+
+###
+
+GET {{Restaurant.API_HostAddress}}/api/restaurants/GetRestaurant/{{id}}
+
+###
+
+GET {{Restaurant.API_HostAddress}}/api/restaurants/GetRestaurant/{{id}}
+
+###
+
+GET {{Restaurant.API_HostAddress}}/api/restaurants/get-all-restaurants
+
+###
+
+GET {{Restaurant.API_HostAddress}}/api/restaurants/GetRestaurant/{{id}}
+
+###
+
+POST {{Restaurant.API_HostAddress}}/api/restaurants
+Content-Type: application/json
+
+
+{
+  "Name":"TestCreatRestaurant",
+  "Description":"TestDescription",
+  "Category":"any Category",
+  "HasDelivery":False,
+  "ContactEmail":"Test@test.com",
+  "ContactNumber":"2345992324455",
+  "City":"Dubai",
+  "Street":"Shabiaa",
+  "PostalCode":"25315"
+  
+}
+
+###
