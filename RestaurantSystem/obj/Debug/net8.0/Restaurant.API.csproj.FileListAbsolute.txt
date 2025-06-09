@@ -178,3 +178,6 @@ E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\tr\Mi
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\AutoMapper.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\FluentValidation.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
