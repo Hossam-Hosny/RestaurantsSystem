@@ -18,6 +18,12 @@ internal class RestaurantsRepository(AppDbContext _db)
 
     }
 
+    public async Task DeleteAsync(Restaurant model)
+    {
+         _db.Remove(model);
+        await _db.SaveChangesAsync();
+    }
+
     public async Task<IEnumerable<Restaurant>> GetAllAsync()
     {
         var restaurants = await _db.Restaurants
@@ -32,5 +38,10 @@ internal class RestaurantsRepository(AppDbContext _db)
             .Include(r => r.Dishes)
             .FirstOrDefaultAsync(r => r.Id == id);
         return restaurant;
+    }
+
+    public async Task SaveChanges()
+    {
+         await _db.SaveChangesAsync();
     }
 }

@@ -181,3 +181,5 @@ E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\AutoM
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\FluentValidation.dll
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\MediatR.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\MediatR.Contracts.dll

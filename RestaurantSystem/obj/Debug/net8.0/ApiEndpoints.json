@@ -8,8 +8,45 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "Restaurants.Application.Restaurants.DTOs.RegisterRestaurantDto",
+        "Name": "command",
+        "Type": "Restaurants.Application.Restaurants.Commands.CreateRestaurant.CreateRestaurantCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurant.API.Controllers.RestaurantsController",
+    "Method": "UpdateRestaurant",
+    "RelativePath": "api/Restaurants/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Restaurants.Application.Restaurants.Commands.UpdateRestaurant.UpdateRestaurantCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurant.API.Controllers.RestaurantsController",
+    "Method": "DeleteRestaurant",
+    "RelativePath": "api/Restaurants/DeleteRestaurant/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
