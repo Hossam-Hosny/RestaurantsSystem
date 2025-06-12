@@ -183,3 +183,16 @@ E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Fluen
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\MediatR.dll
 E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\RestaurantSystem\Restaurants Solution\RestaurantSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll

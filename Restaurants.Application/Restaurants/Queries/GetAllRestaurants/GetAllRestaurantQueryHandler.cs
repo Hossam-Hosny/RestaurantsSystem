@@ -10,7 +10,7 @@ public class GetAllRestaurantQueryHandler(ILogger<GetAllRestaurantQueryHandler>_
 {
     public async Task<IEnumerable<RestaurantDto>> Handle(GetAllRestaurantQuery request, CancellationToken cancellationToken)
     {
-        _logger.LogInformation("Getting All Restaurants [we are in Restaurants Service]");
+        _logger.LogInformation("Getting All Restaurants [we are in Restaurants GetAll Query Handler ]");
         var result = await _restaurantsRepo.GetAllAsync();
 
         var restaurantsDto = _mapper.Map<IEnumerable<RestaurantDto>>(result);

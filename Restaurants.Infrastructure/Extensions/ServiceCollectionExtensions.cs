@@ -16,7 +16,8 @@ public static class ServiceCollectionExtensions
         var connectionString = config.GetConnectionString("LocalConnectionString");
         services.AddDbContext<AppDbContext>(options =>
         {
-            options.UseSqlServer(connectionString);
+            options.UseSqlServer(connectionString)
+                    .EnableSensitiveDataLogging();
         });
 
 
