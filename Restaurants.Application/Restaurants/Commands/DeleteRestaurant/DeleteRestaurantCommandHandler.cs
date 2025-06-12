@@ -11,7 +11,7 @@ public class DeleteRestaurantCommandHandler(ILogger<DeleteRestaurantCommandHandl
     {
         var restaurant = await _restaurantRepo.GetRestaurantById(request.Id);
         if (restaurant is null)
-            throw new NotFoundException($"Restaurant with {request.Id} does not exist");
+            throw new NotFoundException("Restaurant",request.Id.ToString());
 
         _logger.LogInformation("Deleting Restaurant in DataBase {RestaurantId}",request.Id);
 

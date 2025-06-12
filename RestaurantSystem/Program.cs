@@ -10,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddScoped<ErrorHandlingMiddleware>();
+builder.Services.AddScoped<RequestTimeLoggingMiddleware>();
 
 
 builder.Services.AddControllers();
@@ -33,6 +34,7 @@ var seeder = scop.ServiceProvider.GetRequiredService<IRestaurantSeeder>();
  await seeder.Seed();
 
 app.UseMiddleware<ErrorHandlingMiddleware>();
+app.UseMiddleware<RequestTimeLoggingMiddleware>();
 
 
 app.UseSerilogRequestLogging();

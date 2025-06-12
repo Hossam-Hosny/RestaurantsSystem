@@ -17,7 +17,7 @@ public class ErrorHandlingMiddleware(ILogger<ErrorHandlingMiddleware>_logger) : 
             await context.Response.WriteAsync(notfound.Message);
 
             _logger.LogWarning(notfound.Message);
-            _logger.LogWarning(notfound.Message);
+           
         }
         catch (Exception ex)
         {

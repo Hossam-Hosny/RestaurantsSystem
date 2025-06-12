@@ -13,7 +13,7 @@ public class UpdateRestaurantCommandHandler(ILogger<UpdateRestaurantCommandHandl
     {
         var restaurant = await _restaurantRepo.GetRestaurantById(request.Id);
         if (restaurant is null)
-            throw new NotFoundException($"Restaurant with {request.Id} does not exist");
+            throw new NotFoundException("Restaurant",request.Id.ToString());
 
 
         _logger.LogInformation("Updateing Restaurant with id: {RestaurantId} with {@updatedRestaurant}",request.Id,request);

@@ -1,5 +1,99 @@
 [
   {
+    "ContainingType": "Restaurant.API.Controllers.DishesController",
+    "Method": "CreateDish",
+    "RelativePath": "api/restaurant/{restaurantId}/Dishes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Restaurants.Application.Dishes.Commands.CreateDish.CreateDishCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurant.API.Controllers.DishesController",
+    "Method": "GetAllForrestaurant",
+    "RelativePath": "api/restaurant/{restaurantId}/Dishes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Restaurants.Application.Dishes.DTOs.DishDto, Restaurants.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Restaurant.API.Controllers.DishesController",
+    "Method": "DeleteDishesForRestaurant",
+    "RelativePath": "api/restaurant/{restaurantId}/Dishes",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurant.API.Controllers.DishesController",
+    "Method": "GetByIdForRestaurant",
+    "RelativePath": "api/restaurant/{restaurantId}/Dishes/{dishId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dishId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Restaurants.Application.Dishes.DTOs.DishDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Restaurant.API.Controllers.RestaurantsController",
     "Method": "CreateRestaurant",
     "RelativePath": "api/Restaurants",
