@@ -10,6 +10,7 @@ public static class WepApplicationBuilderExtensions
     {
 
         // Add services to the container.
+        builder.Services.AddAuthentication();
         builder.Services.AddScoped<ErrorHandlingMiddleware>();
         builder.Services.AddScoped<RequestTimeLoggingMiddleware>();
 

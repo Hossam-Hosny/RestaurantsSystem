@@ -167,7 +167,7 @@
     "/api/identity/register": {
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "requestBody": {
           "content": {
@@ -199,7 +199,7 @@
     "/api/identity/login": {
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "parameters": [
           {
@@ -244,7 +244,7 @@
     "/api/identity/refresh": {
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "requestBody": {
           "content": {
@@ -273,7 +273,7 @@
     "/api/identity/confirmEmail": {
       "get": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "operationId": "MapIdentityApi-api/identity/confirmEmail",
         "parameters": [
@@ -311,7 +311,7 @@
     "/api/identity/resendConfirmationEmail": {
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "requestBody": {
           "content": {
@@ -333,7 +333,7 @@
     "/api/identity/forgotPassword": {
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "requestBody": {
           "content": {
@@ -365,7 +365,7 @@
     "/api/identity/resetPassword": {
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "requestBody": {
           "content": {
@@ -397,7 +397,7 @@
     "/api/identity/manage/2fa": {
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "requestBody": {
           "content": {
@@ -439,7 +439,7 @@
     "/api/identity/manage/info": {
       "get": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "responses": {
           "200": {
@@ -469,7 +469,7 @@
       },
       "post": {
         "tags": [
-          "Restaurant.API"
+          "Identity"
         ],
         "requestBody": {
           "content": {
@@ -504,6 +504,37 @@
           },
           "404": {
             "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/api/Identity/user": {
+      "patch": {
+        "tags": [
+          "Identity"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateUserDetailsCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateUserDetailsCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateUserDetailsCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -1081,6 +1112,21 @@
           },
           "hasDelivery": {
             "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateUserDetailsCommand": {
+        "type": "object",
+        "properties": {
+          "dateOfBirth": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "nationality": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
