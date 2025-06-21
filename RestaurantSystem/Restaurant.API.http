@@ -24,21 +24,14 @@ GET {{Restaurant.API_HostAddress}}/api/restaurants/GetRestaurant/{{id}}
 
 ###
 
-POST {{Restaurant.API_HostAddress}}/api/restaurants
+POST {{Restaurant.API_HostAddress}}/api/identity/register
 Content-Type: application/json
 
-
 {
-  "Name":"TestCreatRestaurant",
-  "Description":"TestDescription",
-  "Category":"any Category",
-  "HasDelivery":False,
-  "ContactEmail":"Test@test.com",
-  "ContactNumber":"2345992324455",
-  "City":"Dubai",
-  "Street":"Shabiaa",
-  "PostalCode":"25315"
-  
+  "email":"User@test.com",
+  "password":"P@ssword1"
 }
+
+Post{{Restaurant.API_HostAddress}}/api/Identity/register
 
 ###
