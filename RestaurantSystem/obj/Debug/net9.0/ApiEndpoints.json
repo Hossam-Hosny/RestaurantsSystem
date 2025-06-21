@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Restaurant.API.Controllers.IdentityController",
+    "Method": "AssignUserRole",
+    "RelativePath": "api/Identity/AssignUserRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Restaurants.Application.Users.Commands.AssignUserRole.AssignUserRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Microsoft.AspNetCore.Routing.IdentityApiEndpointRouteBuilderExtensions\u002B\u003C\u003Ec__1\u00601[[Restaurants.Domain.Entities.User, Restaurants.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
     "Method": "\u003CMapIdentityApi\u003Eb__1_3",
     "RelativePath": "api/identity/confirmEmail",
@@ -333,6 +349,22 @@
   },
   {
     "ContainingType": "Restaurant.API.Controllers.IdentityController",
+    "Method": "UnassignUserRole",
+    "RelativePath": "api/Identity/UnassignUserRole",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Restaurants.Application.Users.Commands.UnAssignUserRole.UnAssignUserRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurant.API.Controllers.IdentityController",
     "Method": "UpdateUserDetails",
     "RelativePath": "api/Identity/user",
     "HttpMethod": "PATCH",
@@ -341,7 +373,7 @@
     "Parameters": [
       {
         "Name": "command",
-        "Type": "Restaurants.Application.Users.Commands.UpdateUserDetailsCommand",
+        "Type": "Restaurants.Application.Users.Commands.UpdateUserDetails.UpdateUserDetailsCommand",
         "IsRequired": true
       }
     ],
