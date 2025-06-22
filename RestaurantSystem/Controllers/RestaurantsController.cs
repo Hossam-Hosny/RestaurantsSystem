@@ -22,6 +22,7 @@ public class RestaurantsController
 
     [HttpGet("get-all-restaurants")]
     [Authorize(Policy =PolicyNames.AtLeast20)]
+    [Authorize(Policy =PolicyNames.CreatedAtleast2Restaurants)]
     public async Task<IActionResult> GetAll()
     {
         var restaurants = await _mediator.Send(new GetAllRestaurantQuery());
