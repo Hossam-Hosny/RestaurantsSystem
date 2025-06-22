@@ -1,11 +1,16 @@
 ﻿using MediatR;
 using Microsoft.Extensions.Logging;
+using Restaurants.Domain.Constants;
 using Restaurants.Domain.Exceptions;
+using Restaurants.Domain.Interfaces;
 using Restaurants.Domain.Repositories;
 
 namespace Restaurants.Application.Restaurants.Commands.DeleteRestaurant;
 
-public class DeleteRestaurantCommandHandler(ILogger<DeleteRestaurantCommandHandler>_logger,IRestaurantRepository _restaurantRepo) : IRequestHandler<DeleteRestaurantCommand,bool>
+public class DeleteRestaurantCommandHandler(ILogger<DeleteRestaurantCommandHandler>_logger
+    ,IRestaurantRepository _restaurantRepo
+    ,IrestaurantAuthorizationService restaurantAuthorizationService)
+    : IRequestHandler<DeleteRestaurantCommand,bool>
 {
     public async Task<bool> Handle(DeleteRestaurantCommand request, CancellationToken cancellationToken)
     {
@@ -15,6 +20,8 @@ public class DeleteRestaurantCommandHandler(ILogger<DeleteRestaurantCommandHandl
 
         _logger.LogInformation("Deleting Restaurant in DataBase {RestaurantId}",request.Id);
 
+        if (!restaurantAuthorizationService.Authorize(restaurant,ResourceOperation.delete))
+            throw new ForbidException();
 
         await _restaurantRepo.DeleteAsync(restaurant);
         return true;
