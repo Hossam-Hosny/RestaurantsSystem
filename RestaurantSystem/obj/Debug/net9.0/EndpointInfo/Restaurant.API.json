@@ -629,6 +629,20 @@
               "type": "integer",
               "format": "int32"
             }
+          },
+          {
+            "name": "SortBy",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "SortDirection",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/SortDirection"
+            }
           }
         ],
         "responses": {
@@ -1139,6 +1153,14 @@
           }
         },
         "additionalProperties": false
+      },
+      "SortDirection": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
       },
       "TwoFactorRequest": {
         "type": "object",
