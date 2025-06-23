@@ -21,11 +21,12 @@ public class RestaurantsController
 {
 
     [HttpGet("get-all-restaurants")]
-    [Authorize(Policy =PolicyNames.AtLeast20)]
-    [Authorize(Policy =PolicyNames.CreatedAtleast2Restaurants)]
-    public async Task<IActionResult> GetAll()
+    //[Authorize(Policy =PolicyNames.AtLeast20)]
+    //[Authorize(Policy =PolicyNames.CreatedAtleast2Restaurants)]
+    [AllowAnonymous]
+    public async Task<IActionResult> GetAll([FromQuery]GetAllRestaurantQuery query)
     {
-        var restaurants = await _mediator.Send(new GetAllRestaurantQuery());
+        var restaurants = await _mediator.Send(query);
         return Ok(restaurants);
     }
 
