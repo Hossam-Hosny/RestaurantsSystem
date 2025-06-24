@@ -420,7 +420,7 @@
               "RelativeDocumentMoniker": "Restaurants.ApplicationTests\\Restaurants\\DTOs\\RestaurantProfileTests.cs",
               "ToolTip": "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.ApplicationTests\\Restaurants\\DTOs\\RestaurantProfileTests.cs",
               "RelativeToolTip": "Restaurants.ApplicationTests\\Restaurants\\DTOs\\RestaurantProfileTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T13:21:12.756Z",
               "EditorCaption": ""
@@ -435,8 +435,7 @@
               "RelativeToolTip": "Restaurants.ApplicationTests\\Restaurants\\Commands\\CreateRestaurant\\CreateRestaurantCommandValidatorTests.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAUwGgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T12:53:20.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T12:53:20.561Z"
             },
             {
               "$type": "Document",
@@ -448,8 +447,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\UserContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T11:33:10.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T11:33:10.132Z"
             },
             {
               "$type": "Document",
@@ -461,8 +459,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\CreateRestaurant\\CreateRestaurantCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:01:10.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T17:01:10.383Z"
             },
             {
               "$type": "Document",
@@ -474,8 +471,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\DTOs\\RestaurantProfile.cs",
               "ViewState": "AgIAAAIAAAAoMzMzMzMjwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:38:23.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T14:38:23.827Z"
             },
             {
               "$type": "Document",
@@ -487,8 +483,7 @@
               "RelativeToolTip": "Restaurants.ApplicationTests\\Users\\UserContextTests.cs",
               "ViewState": "AgIAADQAAAAAZmZmZmYkwEQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T12:23:59.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T12:23:59.34Z"
             },
             {
               "$type": "Document",
@@ -500,8 +495,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\CurrentUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T11:28:11.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T11:28:11.336Z"
             },
             {
               "$type": "Document",
@@ -513,8 +507,7 @@
               "RelativeToolTip": "Restaurants.ApplicationTests\\Users\\CurrentUserTests.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T12:07:38.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T12:07:38.902Z"
             },
             {
               "$type": "Document",
@@ -526,8 +519,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Migrations\\20250621092608_UserAdditionalPropertiesAdded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T09:26:09.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T09:26:09.36Z"
             },
             {
               "$type": "Document",
@@ -539,8 +531,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Migrations\\20250621124106_SeedUserRoles.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAcwB8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T12:41:06.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T12:41:06.768Z"
             },
             {
               "$type": "Document",
@@ -552,8 +543,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Migrations\\20250622104605_RestaurantOwnerAdded.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwBMAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T10:46:06.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T10:46:06.267Z"
             },
             {
               "$type": "Document",
@@ -565,8 +555,7 @@
               "RelativeToolTip": "RestaurantSystem\\Controllers\\DishesController.cs",
               "ViewState": "AgIAACUAAACAZmZmZmYkwCkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:13:16.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:13:16.368Z"
             },
             {
               "$type": "Document",
@@ -578,8 +567,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Queries\\GetAllRestaurants\\GetAllRestaurantQuery.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:56:19.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T12:56:19.748Z"
             },
             {
               "$type": "Document",
@@ -591,8 +579,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Repositories\\RestaurantsRepository.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T20:58:23.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T20:58:23.627Z"
             },
             {
               "$type": "Document",
@@ -604,8 +591,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Repositories\\IRestaurantRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA6wAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T20:56:44.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T20:56:44.69Z"
             },
             {
               "$type": "Document",
@@ -617,8 +603,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Constants\\SortDirection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:49:55.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:49:55.684Z"
             },
             {
               "$type": "Document",
@@ -630,8 +615,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Queries\\GetAllRestaurants\\GetAllRestaurantQueryHandler.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:57:32.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T12:57:32.267Z"
             },
             {
               "$type": "Document",
@@ -643,8 +627,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Queries\\GetAllRestaurants\\GetAllRestaurantsQueryValidator.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:29:11.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:29:11.501Z"
             },
             {
               "$type": "Document",
@@ -656,8 +639,7 @@
               "RelativeToolTip": "RestaurantSystem\\Controllers\\RestaurantsController.cs",
               "ViewState": "AgIAABIAAABgZmZmZmYkwBoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T20:51:29.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T20:51:29.695Z"
             },
             {
               "$type": "Document",
@@ -669,8 +651,7 @@
               "RelativeToolTip": "Restaurants.Application\\Common\\PageResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:56:36.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T10:56:36.559Z"
             },
             {
               "$type": "Document",
@@ -682,8 +663,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T17:53:52.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T17:53:52.744Z"
             },
             {
               "$type": "Document",
@@ -695,8 +675,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Authorization\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T17:12:05.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T17:12:05.451Z"
             },
             {
               "$type": "Document",
@@ -708,8 +687,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Authorization\\Requirments\\MinimumAgeRequirementsHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T17:23:11.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T17:23:11.655Z"
             },
             {
               "$type": "Document",
@@ -721,8 +699,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAYwCUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:42:43.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:42:43.22Z"
             },
             {
               "$type": "Document",
@@ -734,8 +711,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Authorization\\Requirments\\CreatedMultipleRestaurantsRequirementHandler.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:02:32.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T12:02:32.192Z"
             },
             {
               "$type": "Document",
@@ -747,8 +723,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Authorization\\Requirments\\CreatedMultipleRestaurantsRequirement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:00:42.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T12:00:42.977Z"
             },
             {
               "$type": "Document",
@@ -760,8 +735,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Authorization\\Services\\restaurantAuthorizationService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAIBZwAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T11:10:25.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T11:10:25.516Z"
             },
             {
               "$type": "Document",
@@ -773,8 +747,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Interfaces\\IrestaurantAuthorizationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T11:25:08.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T11:25:08.043Z"
             },
             {
               "$type": "Document",
@@ -786,8 +759,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Constants\\ResourceOperation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T11:26:28.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T11:26:28.778Z"
             },
             {
               "$type": "Document",
@@ -799,8 +771,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Commands\\CreateDish\\CreateDishCommandHandler.cs",
               "ViewState": "AgIAAA0AAACAmZmZmZkdwBgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:24:14.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:24:14.693Z"
             },
             {
               "$type": "Document",
@@ -812,8 +783,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Commands\\DeleteDishes\\DeleteDishesForRestaurantCommandHandler.cs",
               "ViewState": "AgIAABEAAACAmZmZmZkdwA0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:46:13.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:46:13.209Z"
             },
             {
               "$type": "Document",
@@ -825,8 +795,7 @@
               "RelativeToolTip": "RestaurantSystem\\Program.cs",
               "ViewState": "AgIAABcAAACgmZmZmRkwwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:49:05.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:49:05.495Z"
             },
             {
               "$type": "Document",
@@ -838,8 +807,7 @@
               "RelativeToolTip": "RestaurantSystem\\Middlewares\\ErrorHandlingMiddleware.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T12:23:53.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T12:23:53.83Z"
             },
             {
               "$type": "Document",
@@ -851,8 +819,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\UpdateRestaurant\\UpdateRestaurantCommandHandler.cs",
               "ViewState": "AgIAAAwAAACAmZmZmZkdwBkAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:53:49.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:53:49.866Z"
             },
             {
               "$type": "Document",
@@ -864,8 +831,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\DeleteRestaurant\\DeleteRestaurantCommandHandler.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAMBcwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:26:42.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:26:42.356Z"
             },
             {
               "$type": "Document",
@@ -877,8 +843,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Exceptions\\ForbidException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T11:31:06.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T11:31:06.182Z"
             },
             {
               "$type": "Document",
@@ -890,8 +855,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Constants\\UserRoles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:46:24.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T10:46:24.888Z"
             },
             {
               "$type": "Document",
@@ -903,8 +867,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Restaurants.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T17:56:39.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T17:56:39.051Z"
             },
             {
               "$type": "Document",
@@ -916,8 +879,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T11:59:31.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T11:59:31.715Z"
             },
             {
               "$type": "Document",
@@ -929,8 +891,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAA8AAAAAzczMzMz8vyEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:09:13.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T19:09:13.574Z"
             },
             {
               "$type": "Document",
@@ -942,8 +903,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\CreateRestaurant\\CreateRestaurantCommandHandler.cs",
               "ViewState": "AgIAABoAAAAwMzMzMzMwwBsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:42:15.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T12:42:15.524Z"
             },
             {
               "$type": "Document",
@@ -955,8 +915,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Entities\\Restaurant.cs",
               "ViewState": "AgIAAAkAAACgmZmZmZkxwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T17:57:07.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T17:57:07.429Z"
             },
             {
               "$type": "Document",
@@ -968,8 +927,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\IUserContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T09:17:51.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T09:17:51.798Z"
             },
             {
               "$type": "Document",
@@ -981,8 +939,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Authorization\\Requirments\\MinimumAgeRequirements.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T17:20:57.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T17:20:57.954Z"
             },
             {
               "$type": "Document",
@@ -994,8 +951,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Authorization\\RestaurantsUserClaimsPrincipalFactory.cs",
               "ViewState": "AgIAAAgAAACAmZmZmZkBwBcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:46:50.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:46:50.923Z"
             },
             {
               "$type": "Document",
@@ -1007,8 +963,7 @@
               "RelativeToolTip": "RestaurantSystem\\Controllers\\IdentityController.cs",
               "ViewState": "AgIAACEAAAAAMDMzMzPjvyMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T09:27:14.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T09:27:14.18Z"
             },
             {
               "$type": "Document",
@@ -1020,8 +975,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\Commands\\UnAssignUserRole\\UnAssignUserRoleCommandHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA7wBkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:36:33.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:36:33.061Z"
             },
             {
               "$type": "Document",
@@ -1033,8 +987,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T19:36:02.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T19:36:02.83Z"
             },
             {
               "$type": "Document",
@@ -1046,8 +999,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\Commands\\AssignUserRole\\AssignUserRoleCommandHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAMBcwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:00:57.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:00:57.786Z"
             },
             {
               "$type": "Document",
@@ -1059,8 +1011,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\Commands\\AssignUserRole\\AssignUserRoleCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T12:59:12.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T12:59:12.371Z"
             },
             {
               "$type": "Document",
@@ -1072,8 +1023,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\Commands\\UnAssignUserRole\\UnAssignUserRoleCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:35:30.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:35:30.033Z"
             },
             {
               "$type": "Document",
@@ -1085,8 +1035,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Seeders\\IRestaurantSeeder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T14:20:50.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T14:20:50.507Z"
             },
             {
               "$type": "Document",
@@ -1107,8 +1056,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Seeders\\RestaurantSeeder.cs",
               "ViewState": "AgIAAB8AAABgZmZmZmYswC0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T14:05:21.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T14:05:21.567Z"
             },
             {
               "$type": "Document",
@@ -1129,8 +1077,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Migrations\\20250621131422_AddingNormalizeRoleNames.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:14:22.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:14:22.538Z"
             },
             {
               "$type": "Document",
@@ -1142,8 +1089,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\Commands\\UpdateUserDetails\\UpdateUserDetailsCommandHandler.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwBkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T09:31:03.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T09:31:03.193Z"
             },
             {
               "$type": "Document",
@@ -1155,8 +1101,7 @@
               "RelativeToolTip": "Restaurants.Application\\Users\\Commands\\UpdateUserDetails\\UpdateUserDetailsCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T09:29:39.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T09:29:39.644Z"
             },
             {
               "$type": "Document",
@@ -1186,8 +1131,7 @@
               "RelativeToolTip": "RestaurantSystem\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T13:48:31.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:48:31.031Z"
             },
             {
               "$type": "Document",
@@ -1199,8 +1143,7 @@
               "RelativeToolTip": "RestaurantSystem\\appsettings.Development.json",
               "ViewState": "AgIAABUAAACAMzMzMzMLwB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T13:32:30.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:32:30.164Z"
             },
             {
               "$type": "Document",
@@ -1221,8 +1164,7 @@
               "RelativeToolTip": "Restaurants.Application\\Extensions\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:11:44.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T09:11:44.229Z"
             },
             {
               "$type": "Document",
@@ -1234,8 +1176,7 @@
               "RelativeToolTip": "RestaurantSystem\\Restaurant.API.http",
               "ViewState": "AgIAABYAAAAAAAAAAAAxwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-02T09:18:37.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T09:18:37.206Z"
             },
             {
               "$type": "Document",
@@ -1247,8 +1188,7 @@
               "RelativeToolTip": "RestaurantSystem\\Extensions\\WepApplicationBuilderExtensions.cs",
               "ViewState": "AgIAAAEAAABgZmZmZmYGwAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T12:38:12.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T12:38:12.916Z"
             },
             {
               "$type": "Document",
@@ -1260,8 +1200,7 @@
               "RelativeToolTip": "RestaurantSystem\\Restaurant.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-12T12:23:22.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T12:23:22.055Z"
             },
             {
               "$type": "Document",
@@ -1282,8 +1221,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Migrations\\20250617120732_AddIdentity.cs",
               "ViewState": "AgIAAFcAAACAMzMzMzMrwAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T12:07:32.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T12:07:32.588Z"
             },
             {
               "$type": "Document",
@@ -1294,8 +1232,7 @@
               "ToolTip": "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
               "RelativeToolTip": "Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T11:27:00.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T11:27:00.287Z"
             },
             {
               "$type": "Document",
@@ -1306,8 +1243,7 @@
               "ToolTip": "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.Application\\Restaurants.Application.csproj",
               "RelativeToolTip": "Restaurants.Application\\Restaurants.Application.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T11:26:32.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T11:26:32.933Z"
             },
             {
               "$type": "Document",
@@ -1318,8 +1254,7 @@
               "ToolTip": "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.Domain\\Restaurants.Domain.csproj",
               "RelativeToolTip": "Restaurants.Domain\\Restaurants.Domain.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T11:26:16.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T11:26:16.06Z"
             },
             {
               "$type": "Document",
@@ -1330,8 +1265,7 @@
               "ToolTip": "E:\\RestaurantSystem\\Restaurants Solution\\RestaurantSystem\\Restaurant.API.csproj",
               "RelativeToolTip": "RestaurantSystem\\Restaurant.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T11:24:47.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T11:24:47.766Z"
             },
             {
               "$type": "Document",
@@ -1343,8 +1277,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Commands\\DeleteDishes\\DeleteDishesForRestaurantCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:45:15.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:45:15.899Z"
             },
             {
               "$type": "Document",
@@ -1356,8 +1289,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Repositories\\DishRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAArwAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:31:03.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:31:03.594Z"
             },
             {
               "$type": "Document",
@@ -1369,8 +1301,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Repositories\\IDishRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:30:06.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:30:06.245Z"
             },
             {
               "$type": "Document",
@@ -1382,8 +1313,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Commands\\CreateDish\\CreateDishCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:18:46.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:18:46.754Z"
             },
             {
               "$type": "Document",
@@ -1395,8 +1325,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetAllDishes\\GetDishesForRestaurantQueryHandler.cs",
               "ViewState": "AgIAAAsAAABgZmZmZmYmwBgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:09:48.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:09:48.656Z"
             },
             {
               "$type": "Document",
@@ -1408,8 +1337,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetDishById\\GetDishByIdForRestaurantQueryHandler.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAowBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:24:41.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:24:41.662Z"
             },
             {
               "$type": "Document",
@@ -1421,8 +1349,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\DTOs\\DishesProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:50:16.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T14:50:16.44Z"
             },
             {
               "$type": "Document",
@@ -1434,8 +1361,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetDishById\\GetDishByIdForRestaurantQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:23:37.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:23:37.579Z"
             },
             {
               "$type": "Document",
@@ -1447,8 +1373,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetAllDishes\\GetDishesForRestaurantQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:08:49.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:08:49.843Z"
             },
             {
               "$type": "Document",
@@ -1460,8 +1385,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\Commands\\CreateDish\\CreateDishCommandValidator.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAUwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:20:46.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:20:46.671Z"
             },
             {
               "$type": "Document",
@@ -1473,8 +1397,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Entities\\Dish.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T17:57:37.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T17:57:37.047Z"
             },
             {
               "$type": "Document",
@@ -1486,8 +1409,7 @@
               "RelativeToolTip": "RestaurantSystem\\Middlewares\\RequestTimeLoggingMiddleware.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:00:50.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:00:50.724Z"
             },
             {
               "$type": "Document",
@@ -1499,8 +1421,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T12:38:28.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T12:38:28.015Z"
             },
             {
               "$type": "Document",
@@ -1512,8 +1433,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Queries\\GetById\\GetByIdQueryHandler.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAASwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:02:17.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:02:17.521Z"
             },
             {
               "$type": "Document",
@@ -1525,8 +1445,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Queries\\GetById\\GetByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:01:09.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:01:09.581Z"
             },
             {
               "$type": "Document",
@@ -1538,8 +1457,7 @@
               "RelativeToolTip": "RestaurantSystem\\Logs\\Restaurant-API-20250612.log",
               "ViewState": "AgIAABkAAAAAAAAAAABhwD8AAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-06-12T11:59:40.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T11:59:40.882Z"
             },
             {
               "$type": "Document",
@@ -1551,8 +1469,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\UpdateRestaurant\\UpdateRestaurantCommandValidator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:07:51.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:07:51.1Z"
             },
             {
               "$type": "Document",
@@ -1564,8 +1481,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\UpdateRestaurant\\UpdateRestaurantCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:49:35.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:49:35.24Z"
             },
             {
               "$type": "Document",
@@ -1577,8 +1493,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\DeleteRestaurant\\DeleteRestaurantCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:25:49.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:25:49.131Z"
             },
             {
               "$type": "Document",
@@ -1590,8 +1505,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\Commands\\CreateRestaurant\\CreateRestaurantCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:39:29.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T12:39:29.134Z"
             },
             {
               "$type": "Document",
@@ -1603,8 +1517,7 @@
               "RelativeToolTip": "Restaurants.Domain\\Entities\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:06:49.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T18:06:49.809Z"
             },
             {
               "$type": "Document",
@@ -1616,8 +1529,7 @@
               "RelativeToolTip": "Restaurants.Application\\Restaurants\\DTOs\\RestaurantDto.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:46:07.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T09:46:07.285Z"
             },
             {
               "$type": "Document",
@@ -1629,8 +1541,7 @@
               "RelativeToolTip": "Restaurants.Application\\Dishes\\DTOs\\DishDto.cs",
               "ViewState": "AgIAAAwAAACAzMzMzMwMwBAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:48:49.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T09:48:49.341Z"
             },
             {
               "$type": "Document",
@@ -1660,8 +1571,7 @@
               "RelativeToolTip": "Restaurants.Infrastructure\\Migrations\\20250524135937_Initial.cs",
               "ViewState": "AgIAAB4AAAAAAAAAALB8wDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:59:38.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:59:38.158Z"
             },
             {
               "$type": "Document",
@@ -1673,8 +1583,7 @@
               "RelativeToolTip": "RestaurantSystem\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T13:31:43.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:31:43.153Z"
             }
           ]
         }
