@@ -4,7 +4,7 @@ using Restaurants.Domain.Repositories;
 
 namespace Restaurants.Infrastructure.Authorization.Requirments;
 
-public class CreatedMultipleRestaurantsRequirementHandler (IUserContext userContext
+internal class CreatedMultipleRestaurantsRequirementHandler (IUserContext userContext
     ,IRestaurantRepository _repo)
     : AuthorizationHandler<CreatedMultipleRestaurantsRequirement>
 {
