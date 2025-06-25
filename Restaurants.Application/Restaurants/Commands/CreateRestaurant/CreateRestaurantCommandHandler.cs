@@ -23,6 +23,7 @@ public class CreateRestaurantCommandHandler(ILogger<CreateRestaurantCommandHandl
         Restaurant restaurant = _mapper.Map<Restaurant>(request);
         restaurant.OwnerId = currentUser.Id;
 
+
         int id = await _restaurantsRepo.CreateAsync(restaurant);
         return id;
     }
