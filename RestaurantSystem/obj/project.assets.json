@@ -6098,18 +6098,18 @@
     },
     "Restaurants.Application/1.0.0": {
       "type": "project",
-      "path": "../Restaurants.Application/Restaurants.Application.csproj",
-      "msbuildProject": "../Restaurants.Application/Restaurants.Application.csproj"
+      "path": "../src/Restaurants.Application/Restaurants.Application.csproj",
+      "msbuildProject": "../src/Restaurants.Application/Restaurants.Application.csproj"
     },
     "Restaurants.Domain/1.0.0": {
       "type": "project",
-      "path": "../Restaurants.Domain/Restaurants.Domain.csproj",
-      "msbuildProject": "../Restaurants.Domain/Restaurants.Domain.csproj"
+      "path": "../src/Restaurants.Domain/Restaurants.Domain.csproj",
+      "msbuildProject": "../src/Restaurants.Domain/Restaurants.Domain.csproj"
     },
     "Restaurants.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Restaurants.Infrastructure/Restaurants.Infrastructure.csproj",
-      "msbuildProject": "../Restaurants.Infrastructure/Restaurants.Infrastructure.csproj"
+      "path": "../src/Restaurants.Infrastructure/Restaurants.Infrastructure.csproj",
+      "msbuildProject": "../src/Restaurants.Infrastructure/Restaurants.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6153,11 +6153,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.Application\\Restaurants.Application.csproj": {
-              "projectPath": "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.Application\\Restaurants.Application.csproj"
+            "E:\\RestaurantSystem\\Restaurants Solution\\src\\Restaurants.Application\\Restaurants.Application.csproj": {
+              "projectPath": "E:\\RestaurantSystem\\Restaurants Solution\\src\\Restaurants.Application\\Restaurants.Application.csproj"
             },
-            "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj": {
-              "projectPath": "E:\\RestaurantSystem\\Restaurants Solution\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj"
+            "E:\\RestaurantSystem\\Restaurants Solution\\src\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj": {
+              "projectPath": "E:\\RestaurantSystem\\Restaurants Solution\\src\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj"
             }
           }
         }

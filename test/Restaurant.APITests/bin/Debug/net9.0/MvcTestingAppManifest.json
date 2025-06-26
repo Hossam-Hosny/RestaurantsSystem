@@ -1,0 +1,6 @@
+{
+  "Restaurant.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\RestaurantSystem\\Restaurants Solution\\RestaurantSystem",
+  "Restaurants.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\RestaurantSystem\\Restaurants Solution\\src\\Restaurants.Application",
+  "Restaurants.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\RestaurantSystem\\Restaurants Solution\\src\\Restaurants.Domain",
+  "Restaurants.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\RestaurantSystem\\Restaurants Solution\\src\\Restaurants.Infrastructure"
+}
