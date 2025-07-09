@@ -83,4 +83,4 @@ Identity system in action
 👨‍💻 Author
 Hossam Hosny
 .NET Backend Developer
-🔗 LinkedIn
+LinkedIn : www.linkedin.com/in/hossam-hosny-b5ba7622b
